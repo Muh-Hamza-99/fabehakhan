@@ -396,7 +396,6 @@ section .title::after{
 }
 .right-skills, .left-skills {
     flex: 5;
-    margin: 10px;
 }
 .skills-content .right .w-70::before{ width: 70% }
 .skills-content .right .w-75::before{ width: 75% }
