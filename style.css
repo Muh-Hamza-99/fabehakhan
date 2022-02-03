@@ -396,6 +396,7 @@ section .title::after{
 }
 .right-skills, .left-skills {
     flex: 5;
+    margin-right: 15px;
 }
 .skills-content .right .w-70::before{ width: 70% }
 .skills-content .right .w-75::before{ width: 75% }
@@ -440,7 +441,7 @@ section .title::after{
     font-size: 15px;
     margin-right: 15px;
 }
-.xp .xp-content .card .box > p{
+.xp .xp-content .card .box .roles li > p{
     margin-bottom: 10px;
     font-size: 15px;
     font-style: italic;
