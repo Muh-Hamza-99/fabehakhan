@@ -440,9 +440,15 @@ section .title::after{
     font-size: 15px;
     margin-right: 15px;
 }
+.xp .xp-content .card .box > p{
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-style: italic;
+}
 .xp .xp-content .card .box > h4{
     font-weight: 500;
-    margin-bottom: 10px;
+    font-size: 20px;
+    margin-bottom: 2px;
 }
 .xp .xp-content .card .box .roles{
     list-style: decimal georgian inside;
@@ -454,7 +460,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "Thoughts about me!";
+    content: "From my professors!";
 }
 .teams .carousel .card{
     background: #001242;
